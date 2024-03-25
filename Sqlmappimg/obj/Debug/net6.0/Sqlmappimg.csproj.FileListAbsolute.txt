@@ -1,0 +1,14 @@
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\bin\Debug\net6.0\Sqlmappimg.exe
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\bin\Debug\net6.0\Sqlmappimg.deps.json
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\bin\Debug\net6.0\Sqlmappimg.runtimeconfig.json
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\bin\Debug\net6.0\Sqlmappimg.dll
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\bin\Debug\net6.0\Sqlmappimg.pdb
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\obj\Debug\net6.0\Sqlmappimg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\obj\Debug\net6.0\Sqlmappimg.AssemblyInfoInputs.cache
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\obj\Debug\net6.0\Sqlmappimg.AssemblyInfo.cs
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\obj\Debug\net6.0\Sqlmappimg.csproj.CoreCompileInputs.cache
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\obj\Debug\net6.0\Sqlmappimg.dll
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\obj\Debug\net6.0\refint\Sqlmappimg.dll
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\obj\Debug\net6.0\Sqlmappimg.pdb
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\obj\Debug\net6.0\Sqlmappimg.genruntimeconfig.cache
+C:\Users\guina\OneDrive\Ambiente de Trabalho\projecto2024\Sqlmappimg\obj\Debug\net6.0\ref\Sqlmappimg.dll
